@@ -1,0 +1,9 @@
+instagrapi
+moviepy
+ffmpeg-python
+google-api-python-client
+google-auth-oauthlib
+schedule
+python-dotenv
+python-telegram-bot
+openai
