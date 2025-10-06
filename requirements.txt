@@ -7,3 +7,4 @@ schedule
 python-dotenv
 python-telegram-bot
 openai
+tqdm  # Helpful for progress bars
