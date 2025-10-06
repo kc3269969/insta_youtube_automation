@@ -1,0 +1,8 @@
+.env
+*.env
+__pycache__/
+downloads/
+processed/
+logs/
+client_secret.json
+uploaded.json
